@@ -4,3 +4,11 @@ node_modules
 .env*.local
 .DS_Store
 *.tsbuildinfo
+# Patch backups
+*.bak
+*.backup
+*.orig
+*.rej
+
+# Local archives
+Archive.zip
